@@ -1,0 +1,50 @@
+.marginn{
+    margin:0 0 0 300px;
+}
+.marginn2{
+    margin: 0 0 0 200px;
+}
+.arama{
+    background-image: url(assets/search-solid.svg);
+    background-repeat: no-repeat;
+    text-indent:20px;
+    background-size: 7%;
+    background-position: 3%;
+}
+.margin3{
+    margin: 0 0 0 30px;
+}
+.perpendicular-line {
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 0;
+    transform: rotate(90deg);
+    border-color:black;
+  }
+.marginn4{
+    margin: 0 0 0 150px;
+}
+.floatr{
+    float:left;
+
+    }
+.text{
+    text-align:left;
+}
+.height{
+    width:255px;
+}
+
+.weight{
+    width:450px;
+}
+.color{
+    background-color: rgb(226 232 240);
+}
+.backg{
+    background-color: white;
+}
+.marginn5{
+    margin:90px 0 0 120px;
+}
